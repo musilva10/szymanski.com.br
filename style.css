@@ -1,9 +1,9 @@
 header{
-    background-color: #048af8;
-    color: rgb(0, 0, 0);
+    background-color: hsl(0, 0%, 0%);
+    color: rgb(0, 153, 255);
     width: 100%;
     padding: 20px;}
-    
+
 .menu{  max-width: 1980px;
     margin: 0 auto;
     display: flex;
