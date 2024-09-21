@@ -1,0 +1,8 @@
+img {
+    width: 100%; /* Ajusta a largura da imagem para 100% do contêiner */
+    height: auto; /* Mantém a proporção da imagem */
+}
+.container {
+    max-width: 800px; /* Define uma largura máxima para o contêiner */
+    margin: 0 auto; /* Centraliza o contêiner */
+}
