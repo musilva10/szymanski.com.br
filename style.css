@@ -113,7 +113,8 @@ footer {
     background-color: #092640; 
     color: white
     padding: 50px; 
-    text-align: space-between;
+    display: flex;
+justify-content: space-between;
 }
 .link {
     color: #f7f9fc;
