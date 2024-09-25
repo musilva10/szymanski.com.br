@@ -10,7 +10,7 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: #fff;
+    background-color: #092640;
     padding: 10px 20px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
@@ -35,7 +35,7 @@ body {
 
 .menu a {
     text-decoration: none;
-    color: rgb(0, 0, 95);
+    color: rgb(255, 255, 255);
     font-weight: bold;
     padding: 10px 15px;
     transition: background-color 0.3s, color 0.3s;
@@ -106,9 +106,13 @@ body {
    
    
 }
+
+/* rodape */
 .link{
-    color: #092640;
+    color: #f7f9fc;
+    background-color: #092640
     text-decoration: none;
 }
+
 
 
