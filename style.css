@@ -108,6 +108,12 @@ body {
 }
 
 /* rodape */
+footer {
+    background-color: #092640; /*cor de fundo */
+    color: white; /* Cor do texto */
+    padding: 20px; /* Espaçamento interno */
+    text-align: center; /* Centraliza o texto */
+}
 .link{
     color: #f7f9fc;
     background-color: #092640
