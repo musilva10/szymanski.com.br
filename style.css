@@ -100,4 +100,15 @@ body {
     transform: scale(1.1);
 }
 
+.logo_rodape{
+    height: 80px;
+    padding: 12px 0;
+   
+   
+}
+.link{
+    color: #092640;
+    text-decoration: none;
+}
+
 
