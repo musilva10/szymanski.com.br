@@ -103,22 +103,22 @@ body {
 .logo_rodape{
     height: 80px;
     padding: 12px 0;
-   
-   
+    display: flex;
+justify-content: space-between;
 }
+   
 
 /* rodape */
 footer {
-    background-color: #092640; /*cor de fundo */
-    color: white; /* Cor do texto */
-    padding: 20px; /* Espaçamento interno */
-    text-align: center; /* Centraliza o texto */
+    background-color: #092640; 
+    color: white
+    padding: 50px; 
+    text-align: space-between;
 }
-.link{
+.link {
     color: #f7f9fc;
-    background-color: #092640
+    background-color: #092640; 
     text-decoration: none;
 }
-
 
 
