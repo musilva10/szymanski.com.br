@@ -56,14 +56,14 @@ body {
 .dropdown-content {
     display: none;
     position: absolute;
-    top: 40px;
+    top: 100%; /* Ajusta para descer corretamente a partir do botão */
     left: 0;
     background-color: rgb(0, 148, 254);
     box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
     list-style: none;
     padding: 0;
     margin: 0;
-}
+    z-index: 1000; /* Garante que o dropdown fique sobre outros elementos */}
 
 .dropdown-content li {
     width: 200px;
