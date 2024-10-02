@@ -122,15 +122,5 @@ justify-content:space-between;
     background-color: #092640; 
     text-decoration: none;
 }
-.container {
-    position: relative;
-    width: 50%;
-    height: 50%;
-}
 
-img {
-    position: absolute;
-    top: 120px; /* ajuste a posição vertical */
-    left: 10px; /* ajuste a posição horizontal */
-}
 
