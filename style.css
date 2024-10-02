@@ -116,6 +116,12 @@ footer {
     display:flex;
 justify-content:space-between;
 }
+
+.link {
+    color: #f7f9fc;
+    background-color: #092640; 
+    text-decoration: none;
+}
 .container {
     position: relative;
     width: 50%;
@@ -127,11 +133,4 @@ img {
     top: 20px; /* ajuste a posição vertical */
     left: 10px; /* ajuste a posição horizontal */
 }
-
-.link {
-    color: #f7f9fc;
-    background-color: #092640; 
-    text-decoration: none;
-}
-
 
