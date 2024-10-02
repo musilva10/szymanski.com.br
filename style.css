@@ -115,7 +115,7 @@ justify-content: space-between;
 
 .endereço_rodape {
     position: absolute; /* ou relative, conforme necessário */
-    top: 50px; /* ajuste a posição vertical */
+    top: 250px; /* ajuste a posição vertical */
     left: 10px; /* ajuste a posição horizontal */
 }
 
