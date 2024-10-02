@@ -100,22 +100,25 @@ body {
     transform: scale(1.1);
 }
 
+
+
+   
+
+/* rodape */
+
 .logo_rodape{
     height: 80px;
     padding: 12px 0;
     display: flex;
 justify-content: space-between;
 }
-   
 
-/* rodape */
-footer {
-    background-color: #092640; 
-    color: white;
-    padding: 50px; 
-    display:flex;
-justify-content:space-between;
+.endereço_rodape {
+    position: absolute; /* ou relative, conforme necessário */
+    top: 50px; /* ajuste a posição vertical */
+    left: 10px; /* ajuste a posição horizontal */
 }
+
 
 .link {
     color: #f7f9fc;
