@@ -113,18 +113,6 @@ body {
 justify-content: space-between;
 }
 
-.endereço_rodape {
-    position: absolute; /* ou relative, conforme necessário */
-    top: 250px; /* ajuste a posição vertical */
-    left: 10px; /* ajuste a posição horizontal */
-}
-
-.endereço_rodape img {
-    width: 200px; /* ajuste a largura conforme necessário */
-    height: auto; /* mantém a proporção da imagem */
-}
-
-
 .link {
     color: #f7f9fc;
     background-color: #092640; 
