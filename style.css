@@ -107,7 +107,7 @@ body {
 /* rodape */
 
 .logo_rodape{
-    height: 80px;
+    height: 50px;
     padding: 12px 0;
     display: flex;
 justify-content: space-between;
