@@ -147,6 +147,15 @@ body {
     margin-left: 90px; 
 }
 
+/*Direitos Autorais */
+.rodape-direitos {
+    width: 100%; /* Garante que ocupe toda a largura do rodapé */
+    padding: 0px;
+    margin: 0;
+    text-align: center; /* Centraliza o texto horizontalmente */
+    font-size: 15px;
+    clear: both;
+}
 
 /* Colunas Individuais */
 .rodape-1, .rodape-principais, .rodape-redes-sociais{
