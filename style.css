@@ -123,10 +123,10 @@ body {
     margin-bottom: 0px;
 }
 
-
+/* Div principal do rodapé */
 .rodape-div {
     display: flex;
-    flex-wrap: wrap; 
+    flex-wrap: wrap;
     width: 100%;
     margin: auto;
     align-items: stretch;
@@ -134,33 +134,45 @@ body {
     justify-content: space-between; /* Distribuir colunas */
 }
 
+/* Coluna 1 */
 .rodape-1 p {
     margin-left: 20px; /* mover na horizontal */
 }
 
+/* Ajuste de alinhamento para imagem e texto */
+.info-linha {
+    display: flex;
+    align-items: center; /* Alinha o ícone e o texto verticalmente */
+    gap: 10px; /* Espaçamento entre ícone e texto */
+}
 
+/* Definição da coluna 1 */
 .rodape-1 {
     margin-left: 40px; 
 }
 
-.rodape-principais{
-    margin-left: 90px; 
+/* Outras colunas */
+.rodape-principais {
+    margin-left: 90px;
 }
 
-/*Direitos Autorais */
+.rodape-redes-sociais p {
+    display: flex;
+    gap: 10px; /* Espaçamento entre os ícones */
+}
+
+/* Direitos Autorais */
 .rodape-direitos {
-    width: 100%; /* Garante que ocupe toda a largura do rodapé */
+    width: 100%;
     padding: 0px;
     margin: 0;
-    text-align: center; /* Centraliza o texto horizontalmente */
+    text-align: center;
     font-size: 15px;
     clear: both;
 }
 
-/* Colunas Individuais */
-.rodape-1, .rodape-principais, .rodape-redes-sociais{
+/* Definição das colunas */
+.rodape-1, .rodape-principais, .rodape-redes-sociais {
     display: flex;
     flex-direction: column;
-    width: calc
 }
-
